@@ -4,6 +4,7 @@ on:
        - main
   schedule:
     - cron: "15 15 15 */1 *"
+  workflow_dispatch:  # 允许手动触发
 
 name: renderbook
 
