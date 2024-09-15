@@ -1283,6 +1283,27 @@ The current era started with LCM followed by microarray in 1999 [@Luo1999]. Due 
    <td style="text-align:left;width: 6em; "> NA </td>
   </tr>
   <tr>
+   <td style="text-align:left;width: 6em; "> Deep-STARmap </td>
+   <td style="text-align:left;width: 6em; "> 2024-08-07 </td>
+   <td style="text-align:left;width: 6em; "> ISS </td>
+   <td style="text-align:left;width: 6em; "> 1017 </td>
+   <td style="text-align:left;width: 6em; "> single cell </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 6em; "> IRISeq </td>
+   <td style="text-align:left;width: 6em; "> 2024-08-08 </td>
+   <td style="text-align:left;width: 6em; "> De novo </td>
+   <td style="text-align:left;width: 6em; "> NA </td>
+   <td style="text-align:left;width: 6em; "> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 6em; "> SCOPE </td>
+   <td style="text-align:left;width: 6em; "> 2024-08-08 </td>
+   <td style="text-align:left;width: 6em; "> De novo </td>
+   <td style="text-align:left;width: 6em; "> NA </td>
+   <td style="text-align:left;width: 6em; "> NA </td>
+  </tr>
+  <tr>
    <td style="text-align:left;width: 6em; "> cycleHCR </td>
    <td style="text-align:left;width: 6em; "> 2024-08-15 </td>
    <td style="text-align:left;width: 6em; "> smFISH </td>
