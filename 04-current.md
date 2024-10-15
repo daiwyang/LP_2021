@@ -1150,13 +1150,6 @@ The current era started with LCM followed by microarray in 1999 [@Luo1999]. Due 
    <td style="text-align:left;width: 6em; "> single cell </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 6em; "> Visium HD </td>
-   <td style="text-align:left;width: 6em; "> 2024-01-15 </td>
-   <td style="text-align:left;width: 6em; "> NGS barcoding </td>
-   <td style="text-align:left;width: 6em; "> Tx wide </td>
-   <td style="text-align:left;width: 6em; "> 2 </td>
-  </tr>
-  <tr>
    <td style="text-align:left;width: 6em; "> HyperSeq </td>
    <td style="text-align:left;width: 6em; "> 2024-01-30 </td>
    <td style="text-align:left;width: 6em; "> NGS barcoding </td>
@@ -1311,11 +1304,39 @@ The current era started with LCM followed by microarray in 1999 [@Luo1999]. Due 
    <td style="text-align:left;width: 6em; "> single cell </td>
   </tr>
   <tr>
+   <td style="text-align:left;width: 6em; "> weMERFISH </td>
+   <td style="text-align:left;width: 6em; "> 2024-08-27 </td>
+   <td style="text-align:left;width: 6em; "> smFISH </td>
+   <td style="text-align:left;width: 6em; "> 495 </td>
+   <td style="text-align:left;width: 6em; "> single cell </td>
+  </tr>
+  <tr>
    <td style="text-align:left;width: 6em; "> 2P-NucTag </td>
    <td style="text-align:left;width: 6em; "> 2024-09-04 </td>
    <td style="text-align:left;width: 6em; "> ROI selection </td>
    <td style="text-align:left;width: 6em; "> Tx wide </td>
    <td style="text-align:left;width: 6em; "> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 6em; "> PHOTON </td>
+   <td style="text-align:left;width: 6em; "> 2024-09-14 </td>
+   <td style="text-align:left;width: 6em; "> ROI selection </td>
+   <td style="text-align:left;width: 6em; "> Tx wide </td>
+   <td style="text-align:left;width: 6em; "> NA </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 6em; "> hamFISH </td>
+   <td style="text-align:left;width: 6em; "> 2024-09-15 </td>
+   <td style="text-align:left;width: 6em; "> smFISH </td>
+   <td style="text-align:left;width: 6em; "> 32 </td>
+   <td style="text-align:left;width: 6em; "> single cell </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 6em; "> Visium HD </td>
+   <td style="text-align:left;width: 6em; "> 2024-09-27 </td>
+   <td style="text-align:left;width: 6em; "> NGS barcoding </td>
+   <td style="text-align:left;width: 6em; "> Tx wide </td>
+   <td style="text-align:left;width: 6em; "> 2 </td>
   </tr>
 </tbody>
 </table>
